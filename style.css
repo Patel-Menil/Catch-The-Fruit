@@ -1,0 +1,16 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color:black;
+  }
+canvas {
+    display: block;
+    margin:auto;
+    margin-top:  50px;
+}
+
+marquee{
+    color:aliceblue;
+    font-size:20px;
+}
+
